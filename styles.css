@@ -1,0 +1,91 @@
+.center {
+    text-align: center;
+}
+
+.searchbar {
+    height: 40px;
+    width: 700px;
+    font-size: 20px;
+}
+
+.margin-top {
+    margin-top: 30px;
+}
+
+img {
+    width: 420px;
+}
+
+button {
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    color: #5F6368;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-family: arial,sans-serif;
+    font-size: 20px;
+}
+
+#googlelogo {
+    margin-top: 200px;
+}
+
+.topnav {
+    overflow: hidden;
+    width: 99%;
+    margin-top: 30px;
+}
+
+.topnav a{
+    float: left;
+    text-align: center;
+    padding: 10px 20px;
+}
+
+.topnav a:hover {
+    text-decoration: underline;
+}
+
+.topnav-right {
+    float: right;
+}
+
+#sign-in {
+    width: 110px;
+    height: 40px;
+    background-color: #4285f4;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border-color: #4285f4;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 70px;
+    width: 100%;
+    background-color: #f2f2f2;
+}
+
+.footer a {
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    color: #222;
+    padding: 25px;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+.footer-right {
+    float: right;
+}
+
